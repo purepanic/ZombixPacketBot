@@ -1,2 +1,4 @@
 # ZombixPacketBot
-Packet bot for zombix using sockets
+Packet bot for the zombix mobile game using sockets
+
+Code is commented to explain how the login packet works.
